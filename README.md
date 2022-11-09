@@ -88,3 +88,5 @@ const result = await doMulticall<string, VaultInfo | TokenInfo>(provider, {
   tokens: tokensInput,
 });
 ```
+
+For the full use, please refer to https://github.com/wenwkich/simple-defi-dashboard

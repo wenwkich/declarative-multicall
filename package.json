@@ -1,7 +1,19 @@
 {
   "name": "declarative-multicall",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "./lib/index.js",
+  "keywords": [
+    "web3",
+    "ethers.js",
+    "blockchain"
+  ],
+  "author": {
+    "name": "Wendy Chan"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wenwkich/declarative-multicall"
+  },
   "license": "MIT",
   "dependencies": {
     "ethcall": "^4.8.7",
@@ -11,7 +23,6 @@
     "typescript": "^4.8.4"
   },
   "files": [
-    "./bin/*",
     "./lib/*"
   ],
   "typings": "./lib/index.d.ts",

@@ -1,0 +1,4 @@
+node_modules
+lib
+.env.test
+.DS_Store

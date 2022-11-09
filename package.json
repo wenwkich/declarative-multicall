@@ -23,7 +23,8 @@
     "typescript": "^4.8.4"
   },
   "files": [
-    "./lib/*"
+    "bin/*",
+    "lib/*"
   ],
   "typings": "./lib/index.d.ts",
   "scripts": {

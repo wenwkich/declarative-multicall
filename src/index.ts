@@ -83,3 +83,5 @@ export const doMulticall = async <K extends string, R>(
   );
   return resultsNested;
 };
+
+export { MulticallOption, MulticallOptions, MulticallResultBase };
